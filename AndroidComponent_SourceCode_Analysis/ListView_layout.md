@@ -482,3 +482,7 @@ void measureHorizontal(int widthMeasureSpec, int heightMeasureSpec) {
 
 ## 综上
 介绍了listview的layout，以及当listview使用textview做item布局时，会出现textview状太为Gone时，item还存在为空白的问题。
+
+[Demo 链接](https://github.com/DongXiaoFat/WorkNB/tree/master/demo/ListView_Demo)
+
+水平有限，欢迎指正！
